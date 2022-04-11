@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rohit Kumar   @rohit-kumar-eic
+- 👋 Hi, I’m Rohit Kumar   @EIC-RohitKumar
 - 👀 I’m Software Engineer @einfochips
 - 🌱 I’m currently working on BSP and Linux Kernel
 - 💞️ I’m looking to collaborate on the project with my Team
